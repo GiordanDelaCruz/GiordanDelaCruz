@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Giordan!
 
-I'm a **Computer Engineer** with a strong passion for **full-stack development** ☕. I love building functional and responsive applications and am focused on growing my skills to build a long-term career in tech.
+I'm a **Computer Engineer** with a strong passion for **full-stack development** 🖥️. I love building functional and responsive applications and am focused on growing my skills to build a long-term career in tech.
 
 I believe that **AI is dramatically changing how developers work**, and I see it as an essential tool for enhancing productivity and solving complex problems faster 🤖.
 
